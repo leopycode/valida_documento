@@ -1,4 +1,4 @@
-<img src = "documento_consulta.png">
+<img src = "documento_consulta.PNG">
 
 # valida_documento
 
