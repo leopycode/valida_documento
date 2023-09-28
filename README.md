@@ -1,3 +1,5 @@
+<img src = "documento_consulta.png">
+
 # valida_documento
 
 Construção de um código um Python, com uso de Orientação a Objeto, para consultar se um documento brasileiro (CPF ou CNPJ) é válido ou não.
