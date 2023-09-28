@@ -1,6 +1,6 @@
 # valida_documento
 
-Contrução de um código um Python, com uso de Orientação a Objeto, para consultar se um documento brasileiro (CPF ou CNPJ) é válido ou não.
+Construção de um código um Python, com uso de Orientação a Objeto, para consultar se um documento brasileiro (CPF ou CNPJ) é válido ou não.
 
 O código foi contruído em estrutura de classes do Python como descrito:
   Class Documento: 
